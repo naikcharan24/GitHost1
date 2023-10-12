@@ -4,6 +4,7 @@ public class Class2 {
 	public static void method2()
 	{
 		System.out.println("method 2 has stat");
+		System.out.println("adde one more statement");
 	}
 
 }
