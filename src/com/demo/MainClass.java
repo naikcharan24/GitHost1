@@ -1,6 +1,7 @@
 package com.demo;
 
 import com.demo.pack1.Class1;
+import com.demo.pack2.Class2;
 
 public class MainClass
 {
@@ -8,6 +9,7 @@ public class MainClass
 	{
 		System.out.println("Main method is started");
 		Class1.method1();
+		Class2.method2();
 		System.out.println("Main method is ended");
 	}
 }
